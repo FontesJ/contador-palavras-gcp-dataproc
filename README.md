@@ -7,3 +7,6 @@ Criar um cluster Hadoop no Dataproc e executar um job PySpark que conta a quanti
 
 Arquivos:
 Saída Real do job e arquivo com o top 10 de palavras mais citadas.
+
+Observação:
+O cluster está programado para ser desativado no dia 12/10/2021.
