@@ -1,0 +1,18 @@
+Top 10 palavras mais utilizadas no livro:
+
+PALAVRA		OCORRÊNCIA
+
+1. 'the' 			   4066
+2. 'and' 			   2969
+3. 'of'			   2746
+4. 'I'			 	   2719
+5. 'to'			   2144
+6. 'my' 			   1631
+7. 'a' 			   1394
+8. 'in' 			   1129
+9. 'was' 			    994
+
+OBSERVAÇÃO
+
+O script identificou 1186 ocorrências da "palavra" '', o que ocuparia o rank 8 de mais utilizadas.
+ 			   
